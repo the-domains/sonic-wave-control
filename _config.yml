@@ -1,14 +1,14 @@
-layout_spectrum: 0.031350221019238234
-typography_spectrum: 0.21994915092363954
+layout_spectrum: 0.2338612370658666
+typography_spectrum: 0.6213302770629525
 color:
-  brandStrength: 0.5301763720344752
-  lightness: 0.964768742211163
-  saturation: 0.9030832017306238
-  rhythmicContrast: 0.7288053047377616
+  brandStrength: 0.5113837451208383
+  lightness: 0.4074452631175518
+  saturation: 0.287246179766953
+  rhythmicContrast: 0.8950627075973898
   brandColors:
-    - '#070C05'
-    - '#FFFFFF'
-    - '#13A421'
-    - '#1DF95A'
-    - '#699AA9'
+    - '#000000'
+    - '#C5C5C5'
+    - '#3D0B02'
+    - '#30494E'
+    - '#AE7A6C'
 name: Sonic Wave Control

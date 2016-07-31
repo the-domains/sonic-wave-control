@@ -6,9 +6,9 @@ color:
   saturation: 0.9030832017306238
   rhythmicContrast: 0.7288053047377616
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#070C05'
+    - '#FFFFFF'
+    - '#13A421'
+    - '#1DF95A'
+    - '#699AA9'
 name: Sonic Wave Control

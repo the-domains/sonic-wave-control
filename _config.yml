@@ -2,6 +2,7 @@ name: Sonic Wave Control
 favicon: null
 layout_spectrum: 0.031350221019238234
 typography_spectrum: 0.21994915092363954
+title: Sonic Wave Control
 cta:
   domain: null
   bucket: null

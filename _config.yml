@@ -1,14 +1,28 @@
+name: Sonic Wave Control
+favicon: null
 layout_spectrum: 0.031350221019238234
 typography_spectrum: 0.21994915092363954
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.5301763720344752
-  lightness: 0.964768742211163
-  saturation: 0.9030832017306238
-  rhythmicContrast: 0.7288053047377616
   brandColors:
     - '#070C05'
     - '#FFFFFF'
     - '#13A421'
     - '#1DF95A'
     - '#699AA9'
-name: Sonic Wave Control
+  brandStrength: 0.5301763720344752
+  lightness: 0.964768742211163
+  saturation: 0.9030832017306238
+  rhythmicContrast: 0.7288053047377616
+purpose: []
